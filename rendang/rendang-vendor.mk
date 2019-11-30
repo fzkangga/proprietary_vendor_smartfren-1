@@ -43,7 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/smartfren/rendang/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
     vendor/smartfren/rendang/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
     vendor/smartfren/rendang/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/smartfren/rendang/proprietary/lib/sensors.a6000.so:system/lib/sensors.a6000.so \
+    vendor/smartfren/rendang/proprietary/lib/sensors.rendang.so:system/lib/sensors.rendang.so \
     vendor/smartfren/rendang/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
     vendor/smartfren/rendang/proprietary/vendor/framework/qcnvitems.jar:system/vendor/framework/qcnvitems.jar \
     vendor/smartfren/rendang/proprietary/vendor/framework/qcrilhook.jar:system/vendor/framework/qcrilhook.jar \
